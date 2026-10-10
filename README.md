@@ -45,7 +45,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Built a complete Python pipeline. Trained a YOLOv8 model for robust object detection in a distorted aquatic environment. Implemented multi-camera calibration (OpenCV, ArUco) and a stereoscopic 3D triangulation algorithm using the least squares method.
 * 📈 **Impact:** Achieved a tracking precision of ~4.7 cm at a 3-meter distance, validated against the Qualisys ground truth. The project was highly praised by the COSMER lab jury for its technical viability and commercial potential.
 
-#### 🏎️ TurtleBot Autonomous Navigation (https://github.com/julien-dbc/TurtleBot_Autonomous_Navigation)
+#### 🏎️ TurtleBot Autonomous Navigation (https://github.com/julien-dubuc/TurtleBot_Autonomous_Navigation)
 
 <video src="https://github.com/user-attachments/assets/dbb1b983-a50e-456b-9680-403d112be37f" width="600" controls="controls"></video>
 
@@ -54,7 +54,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Developed a navigation stack using ROS and Python within a Gazebo simulation. Implemented a robust State Machine processing Lidar data for dynamic path planning and managing physical collisions via bumper sensors.
 * 📈 **Impact:** Achieved reliable autonomous movement and collision avoidance, demonstrating strong proficiency in standard robotics frameworks.
 
-#### 🕹️ Autonomous Mobile Robot Control (https://github.com/julien-dbc/Embedded-Autonomous-Robot)
+#### 🕹️ Autonomous Mobile Robot Control (https://github.com/julien-dubuc/Embedded-Autonomous-Robot)
 
 <video src="https://github.com/user-attachments/assets/f55e6316-31b7-4a02-b46a-e93c1cc03174" width="600" controls="controls"></video>
 
@@ -63,7 +63,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Programmed an embedded control architecture in C using MPLAB X. Configured Microchip peripherals (ADC, Timers) and managed hardware interrupts. Designed an obstacle avoidance algorithm aggregating data from 5 telemeter sensors.
 * 📈 **Impact:** Delivered a fully functional embedded system capable of real-time sensor processing and autonomous spatial awareness.
 
-#### ⚙️ Rigid Pendulum Control (https://github.com/julien-dbc/commande)
+#### ⚙️ Rigid Pendulum Control (https://github.com/julien-dubuc/commande)
 
 <video src="https://github.com/user-attachments/assets/fc95e4ed-1b68-4a0f-87b7-0e531555d385" width="600" controls="controls"></video>
 
@@ -72,7 +72,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Modelled the DC motor in Simulink and designed controllers in simulation. Identified real-world parameters (friction, inertia, gravity torque) on the bench, then implemented and compared a position PID with a two-loop tachometric feedback on the real hardware. *(Co-developed with Timm Claverie)*.
 * 📈 **Impact:** While a standard PID failed to stabilize the physical system, the tachometric feedback successfully reached the 180° setpoint in 0.33 s with slight overshoot. Successfully quantified real-world discrepancies (e.g., 29% speed drop due to friction).
 
-#### 🚗 Vehicle Dynamics Simulator (https://github.com/julien-dbc/Vehicle-Dynamics-Simulator)
+#### 🚗 Vehicle Dynamics Simulator (https://github.com/julien-dubuc/Vehicle-Dynamics-Simulator)
 
 <video src="https://github.com/user-attachments/assets/805dbea0-651d-4d2a-835d-6aba53c30638" width="600" controls="controls"></video>
 
@@ -81,7 +81,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Designed a custom simulation application using MATLAB App Designer. Implemented mathematical physics models to calculate trajectory, lateral acceleration, yaw rate, and drift across multiple scenarios (dry, wet, ice).
 * 📈 **Impact:** Provided a scalable UI to simulate rollover risks and handling characteristics for city cars, SUVs, and hovercrafts.
 
-#### 🧠 AI for Hexapawn (Reinforcement Learning) (https://github.com/julien-dbc/Hexapawn-Reinforcement-Learning)
+#### 🧠 AI for Hexapawn (Reinforcement Learning) (https://github.com/julien-dubuc/Hexapawn-Reinforcement-Learning)
 
 <video src="https://github.com/user-attachments/assets/7300855c-6a6c-47d1-8aae-f0546701b2e7" width="600" controls="controls"></video>
 
@@ -90,7 +90,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Coded a Hexapawn game engine in Python and implemented a reinforcement learning algorithm. The AI systematically recorded winning states and pruned losing branches over multiple iterations.
 * 📈 **Impact:** Achieved a model capable of perfect play. Successfully scaled the board size and generated a complete game tree for instant win-state calculation.
 
-> 🌐 *Explore my other projects (Image Processing, Breakwaters Simulation, Business Strategy) directly on my [Interactive Portfolio](https://julien-dbc.github.io/portfolio/).*
+> 🌐 *Explore my other projects (Image Processing, Breakwaters Simulation, Business Strategy) directly on my [Interactive Portfolio](https://julien-dubuc.github.io/portfolio/).*
 
 ---
 
@@ -118,6 +118,6 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 ### 📈 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julien-dbc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien-dbc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julien-dubuc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien-dubuc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
