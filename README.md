@@ -63,6 +63,15 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Programmed an embedded control architecture in C using MPLAB X. Configured Microchip peripherals (ADC, Timers) and managed hardware interrupts. Designed an obstacle avoidance algorithm aggregating data from 5 telemeter sensors.
 * 📈 **Impact:** Delivered a fully functional embedded system capable of real-time sensor processing and autonomous spatial awareness.
 
+#### ⚙️ Rigid Pendulum Control (https://github.com/julien-dbc/commande)
+
+<video src="https://github.com/user-attachments/assets/fc95e4ed-1b68-4a0f-87b7-0e531555d385" width="600" controls="controls"></video>
+
+* **Tech Stack:** `MATLAB`, `Simulink`, `PID`, `HIL`, `System Identification`
+* 🎯 **Challenge:** Control a rigid pendulum on a horizontal motor shaft, overcoming non-linear gravity loads, dry friction, and hardware calibration discrepancies.
+* 🛠️ **Solution:** Modelled the DC motor in Simulink and designed controllers in simulation. Identified real-world parameters (friction, inertia, gravity torque) on the bench, then implemented and compared a position PID with a two-loop tachometric feedback on the real hardware. *(Co-developed with Timm Claverie)*.
+* 📈 **Impact:** While a standard PID failed to stabilize the physical system, the tachometric feedback successfully reached the 180° setpoint in 0.33 s with slight overshoot. Successfully quantified real-world discrepancies (e.g., 29% speed drop due to friction).
+
 #### 🚗 Vehicle Dynamics Simulator (https://github.com/julien-dbc/Vehicle-Dynamics-Simulator)
 
 <video src="https://github.com/user-attachments/assets/805dbea0-651d-4d2a-835d-6aba53c30638" width="600" controls="controls"></video>
