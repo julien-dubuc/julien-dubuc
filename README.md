@@ -72,6 +72,16 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Modelled the DC motor in Simulink and designed controllers in simulation. Identified real-world parameters (friction, inertia, gravity torque) on the bench, then implemented and compared a position PID with a two-loop tachometric feedback on the real hardware. *(Co-developed with Timm Claverie)*.
 * 📈 **Impact:** While a standard PID failed to stabilize the physical system, the tachometric feedback successfully reached the 180° setpoint in 0.33 s with slight overshoot. Successfully quantified real-world discrepancies (e.g., 29% speed drop due to friction).
 
+#### 📊 Financial Analysis & Site Monitoring (https://github.com/julien-dubuc/Logeo-Seine-Internship
+
+
+<video src="https://github.com/user-attachments/assets/a143fd21-5afe-4d2a-82f7-b89a90d5c784" width="600" controls="controls"></video>
+
+* **Tech Stack:** `Excel`, `Financial Analysis`, `Site Monitoring`, `Snag Tracking`, `Handover Logistics`
+* 🎯 **Challenge:** Give the Technical Department of a social housing provider a synthetic, comparable view of the costs of its recent operations (new build, renovation, acquisition/upgrade), while supporting day-to-day site monitoring through to handover to the letting agencies.
+* 🛠️ **Solution:** Built Excel dashboards and per-work-package charts (contract cost, amendments, cost per unit) across three operation types, plus summary tables covering all recent operations. Took part in site meetings (OPC, architect, trades), tracked snag resolution, and managed key labelling and access badges.
+* 📈 **Impact:** Delivered summary tables enabling project-to-project cost comparison and better cost forecasting for future operations; secured reliable preparation of handovers to the agencies, with autonomous on-site interventions (opening units, coordinating contractors, resolving an unexpected issue).
+
 #### 🚗 Vehicle Dynamics Simulator (https://github.com/julien-dubuc/Vehicle-Dynamics-Simulator)
 
 <video src="https://github.com/user-attachments/assets/805dbea0-651d-4d2a-835d-6aba53c30638" width="600" controls="controls"></video>
